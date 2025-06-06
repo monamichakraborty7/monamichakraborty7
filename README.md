@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @monamichakraborty7
 - 👀 I’m interested in Development and Designing
 - 🌱 I’m currently learning quite a few interesting things
-- 
 - 📫 How to reach me: mail me at: monamichakraborty611@gmail.com
 - ⚡ Fun fact: Pandas don't like macaroni
 
