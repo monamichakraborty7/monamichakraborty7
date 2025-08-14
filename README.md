@@ -24,7 +24,7 @@
 ## 💻 Coding Platform Stats
 
 ### 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/the_loony_alpaca_)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/the_loony_alpaca_?theme=dark&font=Karma&ext=heatmap)
 
 ### 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monamichakraborty7&theme=radical)
