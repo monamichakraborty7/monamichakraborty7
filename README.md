@@ -6,7 +6,7 @@
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **programming, web development or books. Please ask me about books and novels**
 - 📫 How to reach me: **monamichakraborty611@gmail.com**
-- ⚡ Fun fact: **Pandas don't like macaroni - Nell, The Haunting of Hill House**
+- ⚡ Fun fact: **Pandas don't eat macaroni - Shirley, The Haunting of Hill House**
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
