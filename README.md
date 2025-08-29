@@ -4,7 +4,7 @@
 - 🔭 I'm currently testing waters with **backend technologies**
 - 🌱 I'm currently learning **Django and AI/ML**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **programming, web development or books. Please ask me about books and novels**
+- 💬 Ask me about **programming, web development or books. Please ask me about books. Please.**
 - 📫 How to reach me: **monamichakraborty611@gmail.com**
 - ⚡ Fun fact: **Time falls around us like confetti ~ Nelle, The Haunting of Hill House**
 
