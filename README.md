@@ -1,8 +1,8 @@
 # Hi there, I'm Monami Chakraborty! 👋
 
 ## 🚀 About Me
-- 🔭 I'm currently testing waters with **backend technologies**
-- 🌱 I'm currently learning **Django and AI/ML**
+- 🔭 I'm currently testing waters with **AI GTM**
+- 🌱 I'm currently learning **Java Swing and Microservices**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **programming, web development or books. Please ask me about books. Please.**
 - 📫 How to reach me: **monamichakraborty611@gmail.com**
